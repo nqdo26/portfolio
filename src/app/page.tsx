@@ -301,7 +301,7 @@ export default function Home() {
                 titleKey: "skills.frontend",
                 skills: [
                   "ReactJs",
-                  "Next.js",
+                  "NextJs",
                   "JavaScript",
                   "TypeScript",
                   "Tailwind CSS",
